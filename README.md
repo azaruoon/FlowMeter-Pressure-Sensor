@@ -44,11 +44,11 @@ Channels A15: Analog pressure transducer sensor;
 ![image](https://user-images.githubusercontent.com/106908138/229245463-b88bd7f1-eefb-465c-b8f0-27ccb06f906b.png)
 ![image](https://user-images.githubusercontent.com/106908138/229245493-8871a48f-631e-439e-a696-8ab551c009e8.png)
 
-4.	TFT 2.4″ Arduino Shield Touch
+3.	TFT 2.4″ Arduino Shield Touch
  
 ![image](https://user-images.githubusercontent.com/106908138/229245276-8cff807d-0dbe-4cf2-8106-f3da7cd28276.png)
 
-4.	Pressure sensor
+4.	Pressure Sensor
 
 ![image](https://user-images.githubusercontent.com/106908138/229245641-6b652b89-230f-48af-90f9-d6dab95d20f5.png)
 
@@ -70,7 +70,7 @@ Channels A15: Analog pressure transducer sensor;
  
  ![image](https://user-images.githubusercontent.com/106908138/229246001-5210d04f-531c-46dc-8bba-1fad747c3f4a.png)
 
- 9.	Resistor and capacitor
+ 9.	Resistor And Capacitor
   
 ![image](https://user-images.githubusercontent.com/106908138/229246052-5bda8a08-a5d5-47dd-ace2-bb278dc86c1d.png)
   
