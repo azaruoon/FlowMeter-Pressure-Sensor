@@ -35,6 +35,7 @@ Channels A15: Analog pressure transducer sensor;
 ## Parts List:
 
 1.	Flowmeter Sensor
+
 ![image](https://user-images.githubusercontent.com/106908138/229244977-b264f155-a947-484c-b269-514bd0983408.png)
 ![image](https://user-images.githubusercontent.com/106908138/229244996-9a32e7bb-51c6-4874-9867-4fc976224cc3.png)
 
@@ -47,6 +48,19 @@ Channels A15: Analog pressure transducer sensor;
  
 ![image](https://user-images.githubusercontent.com/106908138/229245276-8cff807d-0dbe-4cf2-8106-f3da7cd28276.png)
 
+4.	Pressure sensor
+
+![image](https://user-images.githubusercontent.com/106908138/229245641-6b652b89-230f-48af-90f9-d6dab95d20f5.png)
+
+5.	XL4015 5A DC-DC Step Down Adjustable Power Supply Module Buck Converter
+
+![image](https://user-images.githubusercontent.com/106908138/229245742-652a53d3-f75f-4b22-8012-f4b93a274213.png)
+![image](https://user-images.githubusercontent.com/106908138/229245766-f4fe83c1-7f66-4197-95a8-06a3f7b55655.png)
+
+6.	XL6009E1 DC DC Boost Converter Module
+
+![image](https://user-images.githubusercontent.com/106908138/229245818-b801c9a9-b9e7-4c14-8897-5da0b987ea55.png)
+![image](https://user-images.githubusercontent.com/106908138/229245826-cf0b5694-196d-4ca4-b459-c687f7e82d7b.png)
 
 
 
