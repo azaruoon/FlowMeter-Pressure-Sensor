@@ -20,6 +20,7 @@ Q(L/hour) = f * 60 * 60 / k
 # Arduino pressure sensor:
 
 Arduino can only measure voltage signals it can not "read" current signals. All I do is use a resistor. 0 to 20 mA through a 250 Ohm precision resistor gives me 0 to 5 volts.
+
 ![image](https://user-images.githubusercontent.com/106908138/229244551-a826d671-24ca-4d31-afe2-9419df439f8d.png)
 ![image](https://user-images.githubusercontent.com/106908138/229244569-e4e287ce-c695-46a2-9edb-ee9f995a873a.png)
 
