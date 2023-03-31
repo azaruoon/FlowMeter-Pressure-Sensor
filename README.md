@@ -79,13 +79,24 @@ the screen is equal to the multimeter and is 111-113 hertz):
   
 ![image](https://user-images.githubusercontent.com/106908138/229246108-1c088999-7648-46d1-8963-c74a44f5dc8f.png)
   
+![image](https://user-images.githubusercontent.com/106908138/229246269-021399fb-a720-4164-a50e-4a79f3d1238e.png)
+ 
+And we measure the Arduino input and pressure sensor output voltage with a multimeter for testing according to the figure below (The voltage shown on the screen is equal to the multimeter and is 1.07 volts):  
   
+![image](https://user-images.githubusercontent.com/106908138/229246321-ccfbd5a8-6934-4e28-8cef-905e5716f369.png)
   
+You can also see the complete assembly in the video and figures below. I hope you enjoyed the tutorial and the content was useful, if you have any problems, please send them to sirous_3141@yahoo.com or WhatsApp 00989373052792.
+
+![image](https://user-images.githubusercontent.com/106908138/229246457-32240157-4142-4d21-b42b-f9d8114aa5d4.png)
   
-  
-  
-  
-  
+![image](https://user-images.githubusercontent.com/106908138/229246498-0bb8b5ef-dbf4-4165-b89e-2a64780ab654.png)
+
+![image](https://user-images.githubusercontent.com/106908138/229246526-8b688f19-3750-470f-b04c-d5d60b341d47.png)
+
+![image](https://user-images.githubusercontent.com/106908138/229246553-7a0314dc-b7f7-400c-8ce5-5d38c2dc5c28.png)
+
+![image](https://user-images.githubusercontent.com/106908138/229246577-237fb52d-22ad-440a-a035-8913c3a21df9.png)
+
   
  
  
