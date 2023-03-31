@@ -1,4 +1,4 @@
-# Arduino flow meter:-
+# Arduino flow meter:
 
 Copyright 22 Mar 2023, Sirous Azaruoon
 ## Arduino Flow Meter Sensor Code:
