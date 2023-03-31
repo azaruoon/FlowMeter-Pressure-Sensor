@@ -39,7 +39,12 @@ Channels A15: Analog pressure transducer sensor;
 ![image](https://user-images.githubusercontent.com/106908138/229244996-9a32e7bb-51c6-4874-9867-4fc976224cc3.png)
 
 2.	Arduino Mega2560
-3.	TFT 2.4″ Arduino Shield Touch 
+
+![image](https://user-images.githubusercontent.com/106908138/229245463-b88bd7f1-eefb-465c-b8f0-27ccb06f906b.png)
+![image](https://user-images.githubusercontent.com/106908138/229245493-8871a48f-631e-439e-a696-8ab551c009e8.png)
+
+4.	TFT 2.4″ Arduino Shield Touch
+ 
 ![image](https://user-images.githubusercontent.com/106908138/229245276-8cff807d-0dbe-4cf2-8106-f3da7cd28276.png)
 
 
