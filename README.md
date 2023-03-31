@@ -1,4 +1,3 @@
-# Flowmeter-Pressure-Sensor
 # Arduino flow meter:
 
 # Copyright 22 Mar 2023, Sirous Azaruoon
@@ -14,7 +13,7 @@ Sensor Frequency (Hz) = k * Q (Liters/s)
 
 Q(L/min) = f*60/k
 
-Q(L/hour) = f*60*60/k
+Q(L/hour) = f * 60 * 60 / k
 
 ![image](https://user-images.githubusercontent.com/106908138/229242343-df48e5e2-58de-437d-97e2-5cbd5e096c42.png)
 
