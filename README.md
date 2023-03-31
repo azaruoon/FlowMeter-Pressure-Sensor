@@ -24,6 +24,14 @@ Arduino can only measure voltage signals it can not "read" current signals. All 
 ![image](https://user-images.githubusercontent.com/106908138/229244551-a826d671-24ca-4d31-afe2-9419df439f8d.png)
 ![image](https://user-images.githubusercontent.com/106908138/229244569-e4e287ce-c695-46a2-9edb-ee9f995a873a.png)
 
+Your uc (Micro-controller) A/D (Analog to Digital Converter) is a 10-bit device or 2^10 = 1024 so full scale is 1024 bits and if 5 volts is your reference then 0 to 5 volts = 0 to 1023 bits.
+
+We are using the header file of the LCD, which eases our interfacing the LCD with Arduino, and the pins A0, A1, A2, A3 are allotted for data transfer between LCD and Arduino. The sensor's output pin is connected to pin A15,21 of Arduino MEGA.
+
+Channels A15: Analog pressure transducer sensor;
+
+ Channel 21: Turbine flow Sensor;
+ 
 
 
 
