@@ -35,6 +35,13 @@ Channels A15: Analog pressure transducer sensor;
 ## Parts List:
 
 1.	Flowmeter Sensor
+![image](https://user-images.githubusercontent.com/106908138/229244977-b264f155-a947-484c-b269-514bd0983408.png)
+![image](https://user-images.githubusercontent.com/106908138/229244996-9a32e7bb-51c6-4874-9867-4fc976224cc3.png)
+
+2.	Arduino Mega2560
+3.	TFT 2.4″ Arduino Shield Touch 
+![image](https://user-images.githubusercontent.com/106908138/229245276-8cff807d-0dbe-4cf2-8106-f3da7cd28276.png)
+
 
 
 
