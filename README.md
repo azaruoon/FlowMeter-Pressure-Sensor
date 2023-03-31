@@ -1,6 +1,7 @@
-# **Arduino flow meter:**
+# Arduino Flow Meter And Pressure Sensor:
 
 Copyright 22 Mar 2023, Sirous Azaruoon
+
 ## Arduino Flow Meter Sensor Code:
 In this project, we are going to build a flow meter sensor and pressure sensor using Arduino  and displaying it on a LCD display.
 
