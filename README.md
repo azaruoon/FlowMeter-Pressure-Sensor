@@ -32,6 +32,9 @@ Channels A15: Analog pressure transducer sensor;
 
  Channel 21: Turbine flow Sensor;
  
+## Parts List:
+
+1.	Flowmeter Sensor
 
 
 
