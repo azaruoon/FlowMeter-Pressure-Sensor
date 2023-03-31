@@ -62,13 +62,22 @@ Channels A15: Analog pressure transducer sensor;
 ![image](https://user-images.githubusercontent.com/106908138/229245818-b801c9a9-b9e7-4c14-8897-5da0b987ea55.png)
 ![image](https://user-images.githubusercontent.com/106908138/229245826-cf0b5694-196d-4ca4-b459-c687f7e82d7b.png)
 
+7.	Li-ion rechargeable 9V batteries
 
+![image](https://user-images.githubusercontent.com/106908138/229245961-a1cb2f3d-ede4-4c16-8d97-fdc5813abc74.png)
 
+8.	Pushbutton Switch
  
- 
+ ![image](https://user-images.githubusercontent.com/106908138/229246001-5210d04f-531c-46dc-8bba-1fad747c3f4a.png)
+
+ 9.	Resistor and capacitor
   
+![image](https://user-images.githubusercontent.com/106908138/229246052-5bda8a08-a5d5-47dd-ace2-bb278dc86c1d.png)
   
+Then we test the Arduino with the PWM wave generator as shown below (The frequency shown on 
+the screen is equal to the multimeter and is 111-113 hertz):
   
+![image](https://user-images.githubusercontent.com/106908138/229246108-1c088999-7648-46d1-8963-c74a44f5dc8f.png)
   
   
   
